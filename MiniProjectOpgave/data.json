@@ -1,0 +1,82 @@
+[
+  {
+    "Department": "Sales",
+    "Region": "North"
+  },
+  {
+    "Department": "Sales",
+    "Region": "South"
+  },
+  {
+    "Department": "Marketing",
+    "Region": "North"
+  },
+  {
+    "Department": "IT",
+    "Region": "West"
+  },
+  {
+    "Department": "Finance",
+    "Region": "East"
+  },
+  {
+    "Department": "HR",
+    "Region": "North"
+  },
+  {
+    "Department": "Logistics",
+    "Region": "South"
+  },
+  {
+    "Department": "Procurement",
+    "Region": "East"
+  },
+  {
+    "Department": "R&D",
+    "Region": "West"
+  },
+  {
+    "Department": "Legal",
+    "Region": "East"
+  },
+  {
+    "Department": "Customer Service",
+    "Region": "North"
+  },
+  {
+    "Department": "Production",
+    "Region": "South"
+  },
+  {
+    "Department": "Quality",
+    "Region": "West"
+  },
+  {
+    "Department": "Maintenance",
+    "Region": "North"
+  },
+  {
+    "Department": "Engineering",
+    "Region": "East"
+  },
+  {
+    "Department": "Security",
+    "Region": "South"
+  },
+  {
+    "Department": "Operations",
+    "Region": "West"
+  },
+  {
+    "Department": "Business Dev",
+    "Region": "East"
+  },
+  {
+    "Department": "Data Science",
+    "Region": "North"
+  },
+  {
+    "Department": "Administration",
+    "Region": "South"
+  }
+]
